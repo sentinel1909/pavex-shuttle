@@ -1,0 +1,10 @@
+# files and things ignored from commits
+
+# Environment variables
+.env
+
+# Shuttle secrets
+Secrets*.toml
+
+# build artifacts
+/target
