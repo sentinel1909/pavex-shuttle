@@ -3,8 +3,12 @@
 # Environment variables
 .env
 
+# configuration
+.shuttle*
+
 # Shuttle secrets
 Secrets*.toml
 
 # build artifacts
 /target
+
